@@ -1,0 +1,37 @@
+{
+  "fecha_corte": "2026-09-12",
+  "fuente": "https://www.cosentino.com/where-to-buy/",
+  "metodo": "Consulta interactiva pública del localizador, sin enviar formularios de contacto ni citas.",
+  "consultas": [
+    {
+      "ciudad": "Tbilisi",
+      "perfil": "I am a homeowner",
+      "busqueda": "Fabricators/Distributors",
+      "resultado": "sin_resultados",
+      "evidence_file": ".firecrawl/cosentino-where-to-buy-tbilisi.json"
+    },
+    {
+      "ciudad": "Batumi",
+      "perfil": "I am a homeowner",
+      "busqueda": "Fabricators/Distributors",
+      "resultado": "sin_resultados",
+      "evidence_file": ".firecrawl/cosentino-where-to-buy-batumi.json"
+    },
+    {
+      "ciudad": "Tbilisi",
+      "perfil": "I am a professional",
+      "busqueda": "Fabricators/Distributors",
+      "resultado": "sin_resultados",
+      "evidence_file": ".firecrawl/cosentino-where-to-buy-tbilisi-professional.json"
+    },
+    {
+      "ciudad": "Batumi",
+      "perfil": "I am a professional",
+      "busqueda": "Fabricators/Distributors",
+      "resultado": "sin_resultados",
+      "evidence_file": ".firecrawl/cosentino-where-to-buy-batumi-professional.json"
+    }
+  ],
+  "interpretacion": "El localizador oficial no mostró puntos de venta para Fabricators/Distributors en Tbilisi ni Batumi bajo los perfiles consultados. Esto es una señal de ausencia de listado oficial, no una prueba de que no exista canal local; los candidatos identificados por sus propias webs siguen requiriendo cualificación.",
+  "siguiente_accion": "Preguntar a Cosentino o a cada candidato por la relación comercial vigente, cobertura territorial y vía formal de alta/compra."
+}

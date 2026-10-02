@@ -1,0 +1,97 @@
+{
+  "fecha_corte": "2026-09-11",
+  "estado": "inventario_preliminar",
+  "nota_metodologica": "El inventario separa marcas competidoras, marcas mostradas y canales. No implica cuota, exclusividad ni compra directa.",
+  "marcas": [
+    {
+      "id": "coante",
+      "marca": "Coante",
+      "categoria": "superficie de cuarzo / material de superficie",
+      "canal_visible": "Zodi / Zodi Plus",
+      "geografia": ["Tbilisi", "Batumi", "Rustavi", "Gori", "Marneuli"],
+      "relacion": "Zodi la presenta entre sus marcas representadas; vigencia y exclusividad por verificar.",
+      "evidence_ids": ["dist-zodi-001"]
+    },
+    {
+      "id": "cimstone",
+      "marca": "Cimstone",
+      "categoria": "superficie de cuarzo",
+      "canal_visible": "Zodi / Zodi Plus",
+      "geografia": ["Georgia; red de Zodi por verificar"],
+      "relacion": "Zodi la presenta entre sus marcas representadas; vigencia y exclusividad por verificar.",
+      "evidence_ids": ["dist-zodi-001"]
+    },
+    {
+      "id": "staron",
+      "marca": "Staron",
+      "categoria": "piedra acrílica / superficie sólida",
+      "canal_visible": "DECOMIX",
+      "geografia": ["Tbilisi / Georgia; cobertura por verificar"],
+      "relacion": "La web corporativa de DECOMIX la publica entre sus marcas de superficies.",
+      "evidence_ids": ["hyb-decomix-002", "hyb-decomix-fc-001"]
+    },
+    {
+      "id": "caesarstone",
+      "marca": "Caesarstone",
+      "categoria": "superficie de cuarzo",
+      "canal_visible": "DECOMIX",
+      "geografia": ["Tbilisi / Georgia; cobertura por verificar"],
+      "relacion": "La web corporativa de DECOMIX la publica entre sus marcas de superficies.",
+      "evidence_ids": ["hyb-decomix-002"]
+    },
+    {
+      "id": "radianz",
+      "marca": "Radianz",
+      "categoria": "superficie de cuarzo",
+      "canal_visible": "DECOMIX",
+      "geografia": ["Tbilisi / Georgia; cobertura por verificar"],
+      "relacion": "La web corporativa de DECOMIX la publica entre sus marcas de superficies.",
+      "evidence_ids": ["hyb-decomix-002"]
+    },
+    {
+      "id": "grandex",
+      "marca": "Grandex",
+      "categoria": "superficie acrílica",
+      "canal_visible": "DECOMIX",
+      "geografia": ["Tbilisi / Georgia; cobertura por verificar"],
+      "relacion": "La web corporativa de DECOMIX la publica entre sus marcas de superficie acrílica.",
+      "evidence_ids": ["hyb-decomix-002"]
+    },
+    {
+      "id": "avarus-belenco",
+      "marca": "Avarus / Belenco",
+      "categoria": "superficies de cuarzo; especificación por verificar",
+      "canal_visible": "DECOMIX",
+      "geografia": ["Tbilisi / Georgia; cobertura por verificar"],
+      "relacion": "La web corporativa de DECOMIX publica ambas marcas entre sus marcas de superficies.",
+      "evidence_ids": ["hyb-decomix-002"]
+    },
+    {
+      "id": "silestone-plastics-channel",
+      "marca": "Silestone",
+      "categoria": "marca Cosentino; canal actual o histórico por verificar",
+      "canal_visible": "Plastics Georgia",
+      "geografia": ["Tbilisi / Georgia"],
+      "relacion": "La página en ruso del dominio georgiano publica Silestone y una opción de pedido para Georgia, pero también contiene referencias a Plastics Ukraine.",
+      "evidence_ids": ["dist-plastics-001", "dist-plastics-fc-001"]
+    },
+    {
+      "id": "abkstone-materia",
+      "marca": "Abkstone / Materia",
+      "categoria": "superficies y materiales de diseño; composición por verificar",
+      "canal_visible": "Mosaics Showroom",
+      "geografia": ["Tbilisi; cobertura por verificar"],
+      "relacion": "Aparecen como marcas/productos en el resultado público de la tienda.",
+      "evidence_ids": ["dist-mosaics-001"]
+    },
+    {
+      "id": "hi-macs-corian-montelli-vaskaniya",
+      "marca": "Hi-Macs / Corian / Montelli",
+      "categoria": "superficie sólida y piedra artificial; composición exacta por verificar",
+      "canal_visible": "Vaskaniya",
+      "geografia": ["Batumi; cobertura por verificar"],
+      "relacion": "El catálogo ruso de Vaskaniya permite filtrar encimeras de piedra artificial por estas marcas. No demuestra distribución oficial ni exclusividad.",
+      "evidence_ids": ["comp-vaskaniya-001", "hyb-vaskaniya-fc-001"]
+    }
+  ]
+}

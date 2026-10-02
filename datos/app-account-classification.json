@@ -1,0 +1,49 @@
+{
+  "fecha_corte": "2026-09-12",
+  "nota": "Clasificación explícita para la visualización. No afirma relación contractual ni compra.",
+  "public_distributor_targets": [
+    "decomix",
+    "zodi-plus",
+    "marmlux",
+    "vaskaniya",
+    "amtile",
+    "premiergranite",
+    "allstone",
+    "qutstone",
+    "arestone",
+    "ceramaspace"
+  ],
+  "distributor": {
+    "zodi-plus": "distributor",
+    "amtile": "distributor",
+    "ceramaspace": "distributor",
+    "plastics-georgia": "distributor",
+    "kraft": "distributor",
+    "mosaics-showroom": "distributor",
+    "decomix": "hybrid",
+    "premiergranite": "fabricator",
+    "arestone": "fabricator",
+    "rocklux": "fabricator",
+    "granite-diabaz": "fabricator",
+    "fin-yapi": "hybrid",
+    "marmlux": "hybrid",
+    "vaskaniya": "fabricator",
+    "qutstone": "fabricator",
+    "lideni": "fabricator",
+    "allstone": "hybrid"
+  },
+  "projects": {
+    "petra-group": "developer",
+    "elt-group": "developer",
+    "gwg-development": "developer",
+    "real-palace": "developer",
+    "horizon-group": "developer",
+    "konsol-holding": "integrated",
+    "guru-holding": "integrated",
+    "designbureau": "specifier",
+    "signy": "specifier",
+    "material-ge": "integrated",
+    "kurdiani-architects": "specifier",
+    "geometria": "specifier"
+  }
+}
